@@ -1,0 +1,2 @@
+data/raw/avall.sql filter=lfs diff=lfs merge=lfs -text
+data/raw/avall.mdb filter=lfs diff=lfs merge=lfs -text
