@@ -1,3 +1,6 @@
+.DS_Store
 data/raw/avall.sql
 data/raw/avall.mdb
-.DS_Store
+HEAD
+data/raw/AVALL/narratives.csv
+6ee8d85 (Cleanup)
